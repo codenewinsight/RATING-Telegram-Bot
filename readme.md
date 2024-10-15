@@ -39,3 +39,5 @@ Run the tool with the command:
 Join my Telegram: [LINK](https://t.me/scriptsharing)
 
 Sourcecode/dancayairdrop
+
+![Screenshot 2024-10-15 235058](https://github.com/user-attachments/assets/3ff13bd0-6638-4ae8-9f17-f0686b10a316)
